@@ -65,6 +65,7 @@ Tela Base de Cadastro:
 ![Captura de tela 2024-06-08 013553](https://github.com/henrique-souza/hss_produtora/assets/72718207/913f044b-5723-43d0-8673-4fe2dc7cb576)
 ![Captura de tela 2024-06-08 013557](https://github.com/henrique-souza/hss_produtora/assets/72718207/8eb4f9eb-ba8b-4899-bc42-803a8be579e0)
 ![Captura de tela 2024-06-08 023204](https://github.com/henrique-souza/hss_produtora/assets/72718207/99ab31bf-ee63-4a0b-b500-07a123827316)
+![Captura de tela 2024-06-08 023215](https://github.com/henrique-souza/hss_produtora/assets/72718207/9dc8f2f9-5d1d-4deb-8bf5-6ec0e76e18e7)
 
 
 

@@ -44,6 +44,7 @@ Tela Base de Cadastro:
 - [x] Utilize uma API para preencher o endereço do titular ao digitar o CEP.
 
 ## Imagens
+
 ![Captura de tela 2024-06-08 012342](https://github.com/henrique-souza/hss_produtora/assets/72718207/bdc3255e-b830-431d-a50d-36ee1eb1bfdc)
 ![Captura de tela 2024-06-08 012402](https://github.com/henrique-souza/hss_produtora/assets/72718207/1ac2206f-c11a-4e34-b277-9a0a2a60f891)
 ![Captura de tela 2024-06-08 012550](https://github.com/henrique-souza/hss_produtora/assets/72718207/ac9815ff-1962-4847-b96f-3113d8a08f99)
@@ -66,10 +67,3 @@ Tela Base de Cadastro:
 ![Captura de tela 2024-06-08 013557](https://github.com/henrique-souza/hss_produtora/assets/72718207/8eb4f9eb-ba8b-4899-bc42-803a8be579e0)
 ![Captura de tela 2024-06-08 023204](https://github.com/henrique-souza/hss_produtora/assets/72718207/99ab31bf-ee63-4a0b-b500-07a123827316)
 ![Captura de tela 2024-06-08 023215](https://github.com/henrique-souza/hss_produtora/assets/72718207/9dc8f2f9-5d1d-4deb-8bf5-6ec0e76e18e7)
-
-
-
-
-
-
-
